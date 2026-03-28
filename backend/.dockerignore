@@ -1,0 +1,23 @@
+# git
+.git
+.gitignore
+
+# Build artifacts
+*.o
+*.a
+*.so
+.DS_Store
+
+# Test files
+*_test.go
+.coverage
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Vendor
+vendor/
